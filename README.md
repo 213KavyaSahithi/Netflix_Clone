@@ -4,7 +4,7 @@ A clone of the Netflix landing page created using HTML, CSS, and Font Awesome fo
 
 ## Table of Contents
 
-- [Project Overview](#Project Overview)
+- [Project Overview](#Project-Overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 
